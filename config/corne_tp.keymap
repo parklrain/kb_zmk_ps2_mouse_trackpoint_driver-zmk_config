@@ -389,7 +389,6 @@
     };
 
 // Disable line-wrap in your editor to see a "visualization" of the key layouts
-/ {
 
   keymap {
     compatible = "zmk,keymap";
