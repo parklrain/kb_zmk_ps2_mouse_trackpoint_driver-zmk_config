@@ -229,7 +229,7 @@
 
         combo_lang {
             bindings = <&kp RALT>;
-            key-positions = <19 21>;
+            key-positions = <7 19>;
             timeout-ms = <50>;
             require-prior-idle-ms = <100>;
             layers = <0 1 2 3>;
@@ -238,7 +238,7 @@
 
         combo_hanja {
             bindings = <&kp RCTRL>;
-            key-positions = <20 22>;
+            key-positions = <8 20>;
             timeout-ms = <50>;
             require-prior-idle-ms = <100>;
             layers = <0 1 2 3>;
